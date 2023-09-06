@@ -5,7 +5,6 @@ public class NicknameManager : MonoBehaviour
 {
     public InputField nicknameInput; // UI 텍스트 필드
 
-    NicknameDisplay nicknameDisplay;
 
     public void SaveNickname()
     {

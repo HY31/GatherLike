@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3adbddf0dc0cd954c805002bb3bae841
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DNF Bit Bit v2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 90ec36b23a5a0884a84b4e32df23186f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

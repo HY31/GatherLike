@@ -34,11 +34,6 @@ public class PlayerInputController : CharacterController
         // CallLookEvent 메서드를 호출하여 aimDirection을 전달합니다.
         CallLookEvent(aimDirection);
     }
-   
-    public void OnFire(InputValue value)
-    {
-        Debug.Log("OnFire" + value.ToString());
-    }
 
     public void OnAim(Vector2 newAimDirection)
     {
