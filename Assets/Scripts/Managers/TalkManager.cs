@@ -69,17 +69,12 @@ public class TalkManager : MonoBehaviour
                     // Text ÄÄÆ÷³ÍÆ®¿¡ ¹®ÀÚ¿­ ÇÒ´ç
                     talkBoxTxt.text = talkText;
                 }
-                else
-                {
-                    Debug.Log("À¸¾Ó ¸ÁÇÔ");
-                }
-                
             }
         }
         else
         {
             youCanTalk.SetActive(false);
-            txtBox.SetActive(isTextBoxActive);
+            txtBox.SetActive(false);
         }
     }
 
